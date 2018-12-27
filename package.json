@@ -1,0 +1,15 @@
+{
+  "name": "node-particles",
+  "version": "1.0.0",
+  "description": "node.jsのsocket.ioを使ってパーティクルの同期システムを作る",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "9.8.0"
+  },
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
